@@ -1,8 +1,7 @@
 <h1 align="center">
-  <a href="https://www.google.com">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=2c5800&random=false&width=535&lines=%E2%9C%A8+Hey%2C+I%27m+Akshit!!!!!!!" alt="Typing SVG" />
-  </a>
+    <img src="https://raw.githubusercontent.com/AkshitThakur83/AkshitThakur83/master/name.svg" alt="A T" />
 </h1>
+
 
 <h3 align="center">A coder from EARTH</h3>
 
