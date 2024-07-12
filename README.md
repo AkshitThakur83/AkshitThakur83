@@ -1,4 +1,18 @@
+<h1 align="center">
+    <img src="https://raw.githubusercontent.com/AkshitThakur83/AkshitThakur83/master/name.svg" alt="A T" />
+</h1>
 
+
+<h3 align="center">A coder from EARTH</h3>
+
+- 👋 Hi, I’m Depressed
+- 👀 I’m interested in YOU...
+- 🌱 I’m currently learning a lot of Coding Stuff
+- 💞 I’m looking to collaborate on bed
+- 📫 How to reach me ...
+- 😄 Pronouns: hehe / haha
+- ⚡️ Fun fact: I'm Gay
+- 
 - # Frameworks, Platforms and Libraries:
  ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
