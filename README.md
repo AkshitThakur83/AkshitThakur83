@@ -1,6 +1,9 @@
 <h1 align="center">
-    <img src="https://raw.githubusercontent.com/AkshitThakur83/AkshitThakur83/master/name.svg" alt="A T" />
+    <a href="https://rssb.org" target="_blank">
+        <img src="https://raw.githubusercontent.com/AkshitThakur83/AkshitThakur83/master/name.svg" alt="A T" />
+    </a>
 </h1>
+
 
 
 <h3 align="center">A coder from EARTH</h3>
