@@ -1,4 +1,3 @@
-<a href="https://rssb.org" target="_blank">
 <h1 align="center">
     <a href="https://rssb.org" target="_blank">
         <img src="ak-bg" alt="HARI OM" />
@@ -6,7 +5,6 @@
 </h1>
 
 
-<a href="https://rssb.org" target="_blank">
 <h3 align="center">A coder from EARTH</h3>
 
 - 👋 Hi,  I’m Depressed
@@ -68,8 +66,6 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
 
-</a>
-
 # 💬 Socials:
 - ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
@@ -77,7 +73,6 @@
 [![Twitter](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/sambhavrana27/)
 
 
-<a href="https://rssb.org" target="_blank">
  # 🥅 Other:
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
@@ -107,7 +102,3 @@
 ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-
-
-</a>
