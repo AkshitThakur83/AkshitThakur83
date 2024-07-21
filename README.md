@@ -1,6 +1,6 @@
 <h1 align="center">
     <a href="https://rssb.org" target="_blank">
-        <img src="https://raw.githubusercontent.com/AkshitThakur83/AkshitThakur83/master/name.svg" alt="A T" />
+        <img src="ak-bg" alt="HARI OM" />
     </a>
 </h1>
 
