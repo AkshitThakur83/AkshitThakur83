@@ -4,6 +4,13 @@
     </a>
 </h1>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=AkshitThakur83&label=Profile%20views&color=0e75b6&style=flat" alt="sambhavrana27" /> </p>
+
+<a href="https://github.com/akshitthakur83">
+<img width=45% height=40% src="https://komarev.com/ghpvc/?username=akshitthakur83&style=for-the-badge&color=blueviolet"/>
+</a>
+
+
 
 <h3 align="center">A coder from EARTH</h3>
 
