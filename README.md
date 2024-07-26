@@ -6,7 +6,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AkshitThakur83&label=Profile%20views&color=0e75b6&style=flat" alt="akshitthakur83" /> </p>
 
-<a href="https://github.com/AkshitThakur83">
+<a href="https://unsplash.com">
 <img width=45% height=40% src="https://komarev.com/ghpvc/?username=AkshitThakur83&style=for-the-badge&color=blueviolet"/>
 </a>
 
