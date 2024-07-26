@@ -4,15 +4,15 @@
     </a>
 </h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=AkshitThakur83&label=Profile%20views&color=0e75b6&style=flat" alt="akshitthakur83" /> </p>
-
+<p align="center" >
 <a href="https://unsplash.com">
-<img width=45% height=40% src="https://komarev.com/ghpvc/?username=AkshitThakur83&style=for-the-badge&color=blueviolet"/>
+<img width=45% height=40% src="https://komarev.com/ghpvc/?username=AkshitThakur83&style=for-the-badge&color=blueviolet&style=flat" />
 </a>
+</p>
 
 
 
-<h3 align="center">A coder from EARTH</h3>
+<h1 align="center">A coder from EARTH</h1>
 
 - 👋 Hi,  I’m Depressed
 - 👀 I’m interested in YOU...
